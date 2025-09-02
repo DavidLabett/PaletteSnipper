@@ -1,4 +1,4 @@
-## Palette Snipper
+## Palette Snipper - a hidden toolbox for developers and designers
 
 - Palette Snipper is a desktop tool built with PyQt5, Pillow, and scikit-learn that allows you to:
 
